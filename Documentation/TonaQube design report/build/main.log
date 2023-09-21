@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.9)  5 DEC 2022 01:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.9)  17 SEP 2023 22:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Manuel Mejia/Universidad/23 1/Control/Práctica 6/main.tex"
-(d:/Manuel Mejia/Universidad/23 1/Control/Práctica 6/main.tex
+**"d:/Mejia/Documents/Hypernova/TonaQube/Documentation/TonaQube design report/main.tex"
+(d:/Mejia/Documents/Hypernova/TonaQube/Documentation/TonaQube design report/main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -576,32 +576,38 @@ Package: ragged2e 2021/12/15 v3.1 ragged2e Package
 \RaggedLeftParindent=\skip75
 \RaggedRightParindent=\skip76
 \JustifyingParindent=\skip77
+) (C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip78
+\multirow@cntb=\count325
+\multirow@dima=\skip79
+\bigstrutjot=\dimen282
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 35.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 38.
  (C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) (d:\Manuel Mejia\Universidad\23 1\Control\Práctica 6\build\main.aux
+) (d:\Mejia\Documents\Hypernova\TonaQube\Documentation\TonaQube design report\build\main.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -639,16 +645,16 @@ LaTeX Info: Redefining \% on input line 35.
 
 (C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count325
-\scratchdimen=\dimen282
+\scratchcounter=\count326
+\scratchdimen=\dimen283
 \scratchbox=\box80
-\nofMPsegments=\count326
-\nofMParguments=\count327
+\nofMPsegments=\count327
+\nofMParguments=\count328
 \everyMPshowfont=\toks44
-\MPscratchCnt=\count328
-\MPscratchDim=\dimen283
-\MPnumerator=\count329
-\makeMPintoPDFobject=\count330
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen284
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
 \everyMPtoPDFconversion=\toks45
 ) (C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -659,297 +665,95 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count331
-<img/ulogo.png, id=40, 273.86526pt x 215.28853pt>
-File: img/ulogo.png Graphic file (type png)
-<use img/ulogo.png>
-Package pdftex.def Info: img/ulogo.png  used on input line 38.
-(pdftex.def)             Requested size: 200.19054pt x 157.37283pt.
+\c@lstlisting=\count332
+<img/hyperlogo.png, id=40, 454.3374pt x 167.9073pt>
+File: img/hyperlogo.png Graphic file (type png)
+<use img/hyperlogo.png>
+Package pdftex.def Info: img/hyperlogo.png  used on input line 41.
+(pdftex.def)             Requested size: 400.38872pt x 147.97664pt.
  [1
 
-{C:/Users/Mejia/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/ulogo.png>]
-<img/controlador_pid.JPG, id=50, 274.77657pt x 71.51718pt>
-File: img/controlador_pid.JPG Graphic file (type jpg)
-<use img/controlador_pid.JPG>
-Package pdftex.def Info: img/controlador_pid.JPG  used on input line 66.
-(pdftex.def)             Requested size: 250.24199pt x 65.1331pt.
-<img/respuesta_al_escalon.JPG, id=51, 225.84375pt x 60.225pt>
-File: img/respuesta_al_escalon.JPG Graphic file (type jpg)
-<use img/respuesta_al_escalon.JPG>
-Package pdftex.def Info: img/respuesta_al_escalon.JPG  used on input line 77.
-(pdftex.def)             Requested size: 225.21626pt x 60.06125pt.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 85.
+{C:/Users/Mejia/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/hyperlogo.png>]
+<img/1UPocketQube.jpg, id=50, 222.07968pt x 195.73125pt>
+File: img/1UPocketQube.jpg Graphic file (type jpg)
+<use img/1UPocketQube.jpg>
+Package pdftex.def Info: img/1UPocketQube.jpg  used on input line 82.
+(pdftex.def)             Requested size: 250.24199pt x 220.5525pt.
+File: img/hyperlogo.png Graphic file (type png)
+<use img/hyperlogo.png>
+Package pdftex.def Info: img/hyperlogo.png  used on input line 103.
+(pdftex.def)             Requested size: 90.08345pt x 33.29134pt.
+ [1
+
+ <./img/1UPocketQube.jpg>]
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 122.
  (C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 85.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 122.
  (C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 85.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 122.
  (C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 85.
+(Font)              <10> on input line 122.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 85.
+(Font)              <7> on input line 122.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 85.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 85.
+(Font)              <5> on input line 122.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 122.
  (C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 85.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 122.
  (C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<img/curva_s.JPG, id=52, 297.36093pt x 188.95593pt>
-File: img/curva_s.JPG Graphic file (type jpg)
-<use img/curva_s.JPG>
-Package pdftex.def Info: img/curva_s.JPG  used on input line 91.
-(pdftex.def)             Requested size: 225.21626pt x 143.11208pt.
-File: img/ulogo.png Graphic file (type png)
-<use img/ulogo.png>
-Package pdftex.def Info: img/ulogo.png  used on input line 94.
-(pdftex.def)             Requested size: 60.05563pt x 47.20921pt.
-<img/ilogo.png, id=53, 1204.5pt x 855.195pt>
-File: img/ilogo.png Graphic file (type png)
-<use img/ilogo.png>
-Package pdftex.def Info: img/ilogo.png  used on input line 94.
-(pdftex.def)             Requested size: 77.5744pt x 55.06766pt.
+File: img/hyperlogo.png Graphic file (type png)
+<use img/hyperlogo.png>
+Package pdftex.def Info: img/hyperlogo.png  used on input line 149.
+(pdftex.def)             Requested size: 90.08345pt x 33.29134pt.
+ [2]
+<img/SatCam.png, id=60, 320.69812pt x 232.61906pt>
+File: img/SatCam.png Graphic file (type png)
+<use img/SatCam.png>
+Package pdftex.def Info: img/SatCam.png  used on input line 152.
+(pdftex.def)             Requested size: 250.24199pt x 181.51666pt.
+<img/camcubesat.jgp.jpg, id=61, 240.9pt x 240.9pt>
+File: img/camcubesat.jgp.jpg Graphic file (type jpg)
+<use img/camcubesat.jgp.jpg>
+Package pdftex.def Info: img/camcubesat.jgp.jpg  used on input line 163.
+(pdftex.def)             Requested size: 150.14671pt x 150.15042pt.
+File: img/hyperlogo.png Graphic file (type png)
+<use img/hyperlogo.png>
+Package pdftex.def Info: img/hyperlogo.png  used on input line 178.
+(pdftex.def)             Requested size: 90.08345pt x 33.29134pt.
+ [3
 
-
-Package fancyhdr Warning: \headheight is too small (58.0pt): 
-(fancyhdr)                Make it at least 67.06766pt, for example:
-(fancyhdr)                \setlength{\headheight}{67.06766pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-9.06766pt}.
-
-[1
-
- <./img/ilogo.png> <./img/controlador_pid.JPG> <./img/respuesta_al_escalon.JPG> <./img/curva_s.JPG>]
-<img/tabla_metodo1.JPG, id=60, 344.78813pt x 145.29282pt>
-File: img/tabla_metodo1.JPG Graphic file (type jpg)
-<use img/tabla_metodo1.JPG>
-Package pdftex.def Info: img/tabla_metodo1.JPG  used on input line 101.
-(pdftex.def)             Requested size: 325.31154pt x 137.08737pt.
-<img/oscilaciones_sostenidas.JPG, id=61, 341.02406pt x 149.05687pt>
-File: img/oscilaciones_sostenidas.JPG Graphic file (type jpg)
-<use img/oscilaciones_sostenidas.JPG>
-Package pdftex.def Info: img/oscilaciones_sostenidas.JPG  used on input line 113.
-(pdftex.def)             Requested size: 225.21626pt x 98.43924pt.
-<img/tabla_metodo2.JPG, id=62, 342.5297pt x 110.66344pt>
-File: img/tabla_metodo2.JPG Graphic file (type jpg)
-<use img/tabla_metodo2.JPG>
-Package pdftex.def Info: img/tabla_metodo2.JPG  used on input line 124.
-(pdftex.def)             Requested size: 325.31154pt x 105.10938pt.
-File: img/ulogo.png Graphic file (type png)
-<use img/ulogo.png>
-Package pdftex.def Info: img/ulogo.png  used on input line 133.
-(pdftex.def)             Requested size: 60.05563pt x 47.20921pt.
-File: img/ilogo.png Graphic file (type png)
-<use img/ilogo.png>
-Package pdftex.def Info: img/ilogo.png  used on input line 133.
-(pdftex.def)             Requested size: 77.5744pt x 55.06766pt.
-
-
-Package fancyhdr Warning: \headheight is too small (58.0pt): 
-(fancyhdr)                Make it at least 67.06766pt, for example:
-(fancyhdr)                \setlength{\headheight}{67.06766pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-9.06766pt}.
-
-[2
-
- <./img/tabla_metodo1.JPG> <./img/oscilaciones_sostenidas.JPG> <./img/tabla_metodo2.JPG>]
-<img/script_m1_e1.JPG, id=67, 243.91125pt x 63.98906pt>
-File: img/script_m1_e1.JPG Graphic file (type jpg)
-<use img/script_m1_e1.JPG>
-Package pdftex.def Info: img/script_m1_e1.JPG  used on input line 151.
-(pdftex.def)             Requested size: 225.21626pt x 59.08543pt.
-<img/resp_step_m1_e1.jpg, id=68, 562.1pt x 421.575pt>
-File: img/resp_step_m1_e1.jpg Graphic file (type jpg)
-<use img/resp_step_m1_e1.jpg>
-Package pdftex.def Info: img/resp_step_m1_e1.jpg  used on input line 155.
-(pdftex.def)             Requested size: 225.21626pt x 168.91005pt.
-<img/parametros L y T_m1_e1.jpg, id=69, 847.165pt x 604.2575pt>
-File: img/parametros L y T_m1_e1.jpg Graphic file (type jpg)
-<use img/parametros L y T_m1_e1.jpg>
-Package pdftex.def Info: img/parametros L y T_m1_e1.jpg  used on input line 167.
-(pdftex.def)             Requested size: 290.28163pt x 207.04915pt.
-File: img/ulogo.png Graphic file (type png)
-<use img/ulogo.png>
-Package pdftex.def Info: img/ulogo.png  used on input line 170.
-(pdftex.def)             Requested size: 60.05563pt x 47.20921pt.
-File: img/ilogo.png Graphic file (type png)
-<use img/ilogo.png>
-Package pdftex.def Info: img/ilogo.png  used on input line 170.
-(pdftex.def)             Requested size: 77.5744pt x 55.06766pt.
-
-
-Package fancyhdr Warning: \headheight is too small (58.0pt): 
-(fancyhdr)                Make it at least 67.06766pt, for example:
-(fancyhdr)                \setlength{\headheight}{67.06766pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-9.06766pt}.
-
-[3
-
- <./img/script_m1_e1.JPG> <./img/resp_step_m1_e1.jpg> <./img/parametros L y T_m1_e1.jpg>]
-<img/modelo_m1_e1.jpg, id=76, 428.35031pt x 139.27031pt>
-File: img/modelo_m1_e1.jpg Graphic file (type jpg)
-<use img/modelo_m1_e1.jpg>
-Package pdftex.def Info: img/modelo_m1_e1.jpg  used on input line 190.
-(pdftex.def)             Requested size: 350.33727pt x 113.907pt.
-<img/contro_m1_e1.jpg, id=77, 562.1pt x 397.485pt>
-File: img/contro_m1_e1.jpg Graphic file (type jpg)
-<use img/contro_m1_e1.jpg>
-Package pdftex.def Info: img/contro_m1_e1.jpg  used on input line 199.
-(pdftex.def)             Requested size: 350.33727pt x 247.73608pt.
-File: img/ulogo.png Graphic file (type png)
-<use img/ulogo.png>
-Package pdftex.def Info: img/ulogo.png  used on input line 209.
-(pdftex.def)             Requested size: 60.05563pt x 47.20921pt.
-File: img/ilogo.png Graphic file (type png)
-<use img/ilogo.png>
-Package pdftex.def Info: img/ilogo.png  used on input line 209.
-(pdftex.def)             Requested size: 77.5744pt x 55.06766pt.
-
-
-Package fancyhdr Warning: \headheight is too small (58.0pt): 
-(fancyhdr)                Make it at least 67.06766pt, for example:
-(fancyhdr)                \setlength{\headheight}{67.06766pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-9.06766pt}.
-
-[4
-
- <./img/modelo_m1_e1.jpg> <./img/contro_m1_e1.jpg>]
-<img/script_m1_e2.JPG, id=81, 203.25937pt x 29.35968pt>
-File: img/script_m1_e2.JPG Graphic file (type jpg)
-<use img/script_m1_e2.JPG>
-Package pdftex.def Info: img/script_m1_e2.JPG  used on input line 218.
-(pdftex.def)             Requested size: 225.21626pt x 32.53226pt.
-<img/resp_step_m1_e2.jpg, id=82, 670.505pt x 529.98pt>
-File: img/resp_step_m1_e2.jpg Graphic file (type jpg)
-<use img/resp_step_m1_e2.jpg>
-Package pdftex.def Info: img/resp_step_m1_e2.jpg  used on input line 222.
-(pdftex.def)             Requested size: 225.21626pt x 178.01544pt.
-<img/parametros L y T_m1_e2.jpg, id=83, 670.505pt x 529.98pt>
-File: img/parametros L y T_m1_e2.jpg Graphic file (type jpg)
-<use img/parametros L y T_m1_e2.jpg>
-Package pdftex.def Info: img/parametros L y T_m1_e2.jpg  used on input line 234.
-(pdftex.def)             Requested size: 290.28163pt x 229.43962pt.
-File: img/ulogo.png Graphic file (type png)
-<use img/ulogo.png>
-Package pdftex.def Info: img/ulogo.png  used on input line 237.
-(pdftex.def)             Requested size: 60.05563pt x 47.20921pt.
-File: img/ilogo.png Graphic file (type png)
-<use img/ilogo.png>
-Package pdftex.def Info: img/ilogo.png  used on input line 237.
-(pdftex.def)             Requested size: 77.5744pt x 55.06766pt.
-
-
-Package fancyhdr Warning: \headheight is too small (58.0pt): 
-(fancyhdr)                Make it at least 67.06766pt, for example:
-(fancyhdr)                \setlength{\headheight}{67.06766pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-9.06766pt}.
-
-[5 <./img/script_m1_e2.JPG> <./img/resp_step_m1_e2.jpg> <./img/parametros L y T_m1_e2.jpg>]
-<img/modelo_m1_e2.jpg, id=87, 408.02437pt x 122.70844pt>
-File: img/modelo_m1_e2.jpg Graphic file (type jpg)
-<use img/modelo_m1_e2.jpg>
-Package pdftex.def Info: img/modelo_m1_e2.jpg  used on input line 257.
-(pdftex.def)             Requested size: 350.33727pt x 105.36429pt.
-<img/contro_m1_e2.jpg, id=88, 562.1pt x 397.485pt>
-File: img/contro_m1_e2.jpg Graphic file (type jpg)
-<use img/contro_m1_e2.jpg>
-Package pdftex.def Info: img/contro_m1_e2.jpg  used on input line 266.
-(pdftex.def)             Requested size: 350.33727pt x 247.73608pt.
-File: img/ulogo.png Graphic file (type png)
-<use img/ulogo.png>
-Package pdftex.def Info: img/ulogo.png  used on input line 269.
-(pdftex.def)             Requested size: 60.05563pt x 47.20921pt.
-File: img/ilogo.png Graphic file (type png)
-<use img/ilogo.png>
-Package pdftex.def Info: img/ilogo.png  used on input line 269.
-(pdftex.def)             Requested size: 77.5744pt x 55.06766pt.
-
-
-Package fancyhdr Warning: \headheight is too small (58.0pt): 
-(fancyhdr)                Make it at least 67.06766pt, for example:
-(fancyhdr)                \setlength{\headheight}{67.06766pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-9.06766pt}.
-
-[6
-
- <./img/modelo_m1_e2.jpg> <./img/contro_m1_e2.jpg>]
-<img/script_m2_e1.JPG, id=93, 217.5628pt x 27.85406pt>
-File: img/script_m2_e1.JPG Graphic file (type jpg)
-<use img/script_m2_e1.JPG>
-Package pdftex.def Info: img/script_m2_e1.JPG  used on input line 290.
-(pdftex.def)             Requested size: 225.21626pt x 28.83575pt.
-<img/resp_step_m2_e1.jpg, id=94, 819.06pt x 557.08125pt>
-File: img/resp_step_m2_e1.jpg Graphic file (type jpg)
-<use img/resp_step_m2_e1.jpg>
-Package pdftex.def Info: img/resp_step_m2_e1.jpg  used on input line 294.
-(pdftex.def)             Requested size: 225.21626pt x 153.17656pt.
-File: img/ulogo.png Graphic file (type png)
-<use img/ulogo.png>
-Package pdftex.def Info: img/ulogo.png  used on input line 314.
-(pdftex.def)             Requested size: 60.05563pt x 47.20921pt.
-File: img/ilogo.png Graphic file (type png)
-<use img/ilogo.png>
-Package pdftex.def Info: img/ilogo.png  used on input line 314.
-(pdftex.def)             Requested size: 77.5744pt x 55.06766pt.
-
-
-Package fancyhdr Warning: \headheight is too small (58.0pt): 
-(fancyhdr)                Make it at least 67.06766pt, for example:
-(fancyhdr)                \setlength{\headheight}{67.06766pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-9.06766pt}.
-
-[7
-
- <./img/script_m2_e1.JPG> <./img/resp_step_m2_e1.jpg>]
-File: img/ulogo.png Graphic file (type png)
-<use img/ulogo.png>
-Package pdftex.def Info: img/ulogo.png  used on input line 331.
-(pdftex.def)             Requested size: 60.05563pt x 47.20921pt.
-File: img/ilogo.png Graphic file (type png)
-<use img/ilogo.png>
-Package pdftex.def Info: img/ilogo.png  used on input line 331.
-(pdftex.def)             Requested size: 77.5744pt x 55.06766pt.
-
-
-Package fancyhdr Warning: \headheight is too small (58.0pt): 
-(fancyhdr)                Make it at least 67.06766pt, for example:
-(fancyhdr)                \setlength{\headheight}{67.06766pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-9.06766pt}.
-
-[8
-
-] (d:\Manuel Mejia\Universidad\23 1\Control\Práctica 6\build\main.aux
+ <./img/SatCam.png> <./img/camcubesat.jgp.jpg>]
+File: img/hyperlogo.png Graphic file (type png)
+<use img/hyperlogo.png>
+Package pdftex.def Info: img/hyperlogo.png  used on input line 209.
+(pdftex.def)             Requested size: 90.08345pt x 33.29134pt.
+ [4] (d:\Mejia\Documents\Hypernova\TonaQube\Documentation\TonaQube design report\build\main.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 24453 strings out of 478582
- 521317 string characters out of 2844345
- 907016 words of memory out of 3000000
- 42191 multiletter control sequences out of 15000+600000
- 514818 words of font info for 55 fonts, out of 8000000 for 9000
+ 24401 strings out of 478582
+ 519775 string characters out of 2844345
+ 920694 words of memory out of 3000000
+ 42155 multiletter control sequences out of 15000+600000
+ 507653 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,16n,96p,468b,1029s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmsc.enc}<C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb>
-Output written on "d:\Manuel Mejia\Universidad\23 1\Control\Práctica 6\build\main.pdf" (9 pages, 865604 bytes).
+ 84i,15n,96p,490b,1029s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmsc.enc}<C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Mejia/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb>
+Output written on "d:\Mejia\Documents\Hypernova\TonaQube\Documentation\TonaQube design report\build\main.pdf" (5 pages, 483363 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
+ 96 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 177 words of extra memory for PDF output out of 10000 (max. 10000000)
 

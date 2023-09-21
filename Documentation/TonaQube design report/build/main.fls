@@ -1,7 +1,7 @@
-PWD d:\Manuel Mejia\Universidad\23 1\Control\Práctica 6
+PWD d:\Mejia\Documents\Hypernova\TonaQube\Documentation\TonaQube design report
 INPUT C:\Users\Mejia\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Manuel Mejia\Universidad\23 1\Control\Práctica 6\main.tex
-OUTPUT d:\Manuel Mejia\Universidad\23 1\Control\Práctica 6\build\main.log
+INPUT d:\Mejia\Documents\Hypernova\TonaQube\Documentation\TonaQube design report\main.tex
+OUTPUT d:\Mejia\Documents\Hypernova\TonaQube\Documentation\TonaQube design report\build\main.log
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -739,7 +739,7 @@ INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
-OUTPUT d:\Manuel Mejia\Universidad\23 1\Control\Práctica 6\build\main.pdf
+OUTPUT d:\Mejia\Documents\Hypernova\TonaQube\Documentation\TonaQube design report\build\main.pdf
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbposter.code.tex
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
@@ -786,15 +786,26 @@ INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.s
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr10.tfm
-INPUT d:\Manuel Mejia\Universidad\23 1\Control\Práctica 6\build\main.aux
-INPUT d:\Manuel Mejia\Universidad\23 1\Control\Práctica 6\build\main.aux
-INPUT d:\Manuel Mejia\Universidad\23 1\Control\Práctica 6\build\main.aux
-OUTPUT d:\Manuel Mejia\Universidad\23 1\Control\Práctica 6\build\main.aux
+INPUT d:\Mejia\Documents\Hypernova\TonaQube\Documentation\TonaQube design report\build\main.aux
+INPUT d:\Mejia\Documents\Hypernova\TonaQube\Documentation\TonaQube design report\build\main.aux
+INPUT d:\Mejia\Documents\Hypernova\TonaQube\Documentation\TonaQube design report\build\main.aux
+OUTPUT d:\Mejia\Documents\Hypernova\TonaQube\Documentation\TonaQube design report\build\main.aux
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -814,13 +825,13 @@ INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT .\img\ulogo.png
+INPUT .\img\hyperlogo.png
+INPUT .\img\hyperlogo.png
+INPUT img\hyperlogo.png
+INPUT .\img\hyperlogo.png
+INPUT .\img\hyperlogo.png
+INPUT .\img\hyperlogo.png
+INPUT .\img\hyperlogo.png
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr17.tfm
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx12.tfm
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmcsc10.tfm
@@ -830,21 +841,18 @@ INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr12.
 INPUT C:\Users\Mejia\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr12.tfm
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx12.tfm
-INPUT .\img\controlador_pid.JPG
-INPUT .\img\controlador_pid.JPG
-INPUT img\controlador_pid.JPG
-INPUT .\img\controlador_pid.JPG
-INPUT .\img\controlador_pid.JPG
-INPUT .\img\controlador_pid.JPG
-INPUT .\img\controlador_pid.JPG
-INPUT .\img\respuesta_al_escalon.JPG
-INPUT .\img\respuesta_al_escalon.JPG
-INPUT img\respuesta_al_escalon.JPG
-INPUT .\img\respuesta_al_escalon.JPG
-INPUT .\img\respuesta_al_escalon.JPG
-INPUT .\img\respuesta_al_escalon.JPG
-INPUT .\img\respuesta_al_escalon.JPG
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx12.tfm
+INPUT .\img\1UPocketQube.jpg
+INPUT .\img\1UPocketQube.jpg
+INPUT img\1UPocketQube.jpg
+INPUT .\img\1UPocketQube.jpg
+INPUT .\img\1UPocketQube.jpg
+INPUT .\img\1UPocketQube.jpg
+INPUT .\img\1UPocketQube.jpg
+INPUT .\img\hyperlogo.png
+INPUT .\img\hyperlogo.png
+INPUT img\hyperlogo.png
+INPUT .\img\hyperlogo.png
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr7.tfm
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr5.tfm
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\lm\omllmm.fd
@@ -880,208 +888,45 @@ INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT .\img\curva_s.JPG
-INPUT .\img\curva_s.JPG
-INPUT img\curva_s.JPG
-INPUT .\img\curva_s.JPG
-INPUT .\img\curva_s.JPG
-INPUT .\img\curva_s.JPG
-INPUT .\img\curva_s.JPG
-INPUT .\img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\tabla_metodo1.JPG
-INPUT .\img\tabla_metodo1.JPG
-INPUT img\tabla_metodo1.JPG
-INPUT .\img\tabla_metodo1.JPG
-INPUT .\img\tabla_metodo1.JPG
-INPUT .\img\tabla_metodo1.JPG
-INPUT .\img\tabla_metodo1.JPG
-INPUT .\img\oscilaciones_sostenidas.JPG
-INPUT .\img\oscilaciones_sostenidas.JPG
-INPUT img\oscilaciones_sostenidas.JPG
-INPUT .\img\oscilaciones_sostenidas.JPG
-INPUT .\img\oscilaciones_sostenidas.JPG
-INPUT .\img\oscilaciones_sostenidas.JPG
-INPUT .\img\oscilaciones_sostenidas.JPG
-INPUT .\img\tabla_metodo2.JPG
-INPUT .\img\tabla_metodo2.JPG
-INPUT img\tabla_metodo2.JPG
-INPUT .\img\tabla_metodo2.JPG
-INPUT .\img\tabla_metodo2.JPG
-INPUT .\img\tabla_metodo2.JPG
-INPUT .\img\tabla_metodo2.JPG
-INPUT .\img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\script_m1_e1.JPG
-INPUT .\img\script_m1_e1.JPG
-INPUT img\script_m1_e1.JPG
-INPUT .\img\script_m1_e1.JPG
-INPUT .\img\script_m1_e1.JPG
-INPUT .\img\script_m1_e1.JPG
-INPUT .\img\script_m1_e1.JPG
-INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr9.tfm
-INPUT .\img\resp_step_m1_e1.jpg
-INPUT .\img\resp_step_m1_e1.jpg
-INPUT img\resp_step_m1_e1.jpg
-INPUT .\img\resp_step_m1_e1.jpg
-INPUT .\img\resp_step_m1_e1.jpg
-INPUT .\img\resp_step_m1_e1.jpg
-INPUT .\img\resp_step_m1_e1.jpg
-INPUT .\img\parametros L y T_m1_e1.jpg
-INPUT .\img\parametros L y T_m1_e1.jpg
-INPUT img\parametros L y T_m1_e1.jpg
-INPUT .\img\parametros L y T_m1_e1.jpg
-INPUT .\img\parametros L y T_m1_e1.jpg
-INPUT .\img\parametros L y T_m1_e1.jpg
-INPUT .\img\parametros L y T_m1_e1.jpg
-INPUT .\img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\modelo_m1_e1.jpg
-INPUT .\img\modelo_m1_e1.jpg
-INPUT img\modelo_m1_e1.jpg
-INPUT .\img\modelo_m1_e1.jpg
-INPUT .\img\modelo_m1_e1.jpg
-INPUT .\img\modelo_m1_e1.jpg
-INPUT .\img\modelo_m1_e1.jpg
-INPUT .\img\contro_m1_e1.jpg
-INPUT .\img\contro_m1_e1.jpg
-INPUT img\contro_m1_e1.jpg
-INPUT .\img\contro_m1_e1.jpg
-INPUT .\img\contro_m1_e1.jpg
-INPUT .\img\contro_m1_e1.jpg
-INPUT .\img\contro_m1_e1.jpg
-INPUT .\img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\script_m1_e2.JPG
-INPUT .\img\script_m1_e2.JPG
-INPUT img\script_m1_e2.JPG
-INPUT .\img\script_m1_e2.JPG
-INPUT .\img\script_m1_e2.JPG
-INPUT .\img\script_m1_e2.JPG
-INPUT .\img\script_m1_e2.JPG
-INPUT .\img\resp_step_m1_e2.jpg
-INPUT .\img\resp_step_m1_e2.jpg
-INPUT img\resp_step_m1_e2.jpg
-INPUT .\img\resp_step_m1_e2.jpg
-INPUT .\img\resp_step_m1_e2.jpg
-INPUT .\img\resp_step_m1_e2.jpg
-INPUT .\img\resp_step_m1_e2.jpg
-INPUT .\img\parametros L y T_m1_e2.jpg
-INPUT .\img\parametros L y T_m1_e2.jpg
-INPUT img\parametros L y T_m1_e2.jpg
-INPUT .\img\parametros L y T_m1_e2.jpg
-INPUT .\img\parametros L y T_m1_e2.jpg
-INPUT .\img\parametros L y T_m1_e2.jpg
-INPUT .\img\parametros L y T_m1_e2.jpg
-INPUT .\img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\modelo_m1_e2.jpg
-INPUT .\img\modelo_m1_e2.jpg
-INPUT img\modelo_m1_e2.jpg
-INPUT .\img\modelo_m1_e2.jpg
-INPUT .\img\modelo_m1_e2.jpg
-INPUT .\img\modelo_m1_e2.jpg
-INPUT .\img\modelo_m1_e2.jpg
-INPUT .\img\contro_m1_e2.jpg
-INPUT .\img\contro_m1_e2.jpg
-INPUT img\contro_m1_e2.jpg
-INPUT .\img\contro_m1_e2.jpg
-INPUT .\img\contro_m1_e2.jpg
-INPUT .\img\contro_m1_e2.jpg
-INPUT .\img\contro_m1_e2.jpg
-INPUT .\img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\script_m2_e1.JPG
-INPUT .\img\script_m2_e1.JPG
-INPUT img\script_m2_e1.JPG
-INPUT .\img\script_m2_e1.JPG
-INPUT .\img\script_m2_e1.JPG
-INPUT .\img\script_m2_e1.JPG
-INPUT .\img\script_m2_e1.JPG
-INPUT .\img\resp_step_m2_e1.jpg
-INPUT .\img\resp_step_m2_e1.jpg
-INPUT img\resp_step_m2_e1.jpg
-INPUT .\img\resp_step_m2_e1.jpg
-INPUT .\img\resp_step_m2_e1.jpg
-INPUT .\img\resp_step_m2_e1.jpg
-INPUT .\img\resp_step_m2_e1.jpg
-INPUT .\img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmri10.tfm
-INPUT .\img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT img\ulogo.png
-INPUT .\img\ulogo.png
-INPUT .\img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT img\ilogo.png
-INPUT .\img\ilogo.png
-INPUT d:\Manuel Mejia\Universidad\23 1\Control\Práctica 6\build\main.aux
+INPUT .\img\hyperlogo.png
+INPUT .\img\hyperlogo.png
+INPUT img\hyperlogo.png
+INPUT .\img\hyperlogo.png
+INPUT .\img\SatCam.png
+INPUT .\img\SatCam.png
+INPUT img\SatCam.png
+INPUT .\img\SatCam.png
+INPUT .\img\SatCam.png
+INPUT .\img\SatCam.png
+INPUT .\img\SatCam.png
+INPUT .\img\camcubesat.jgp.jpg
+INPUT .\img\camcubesat.jgp.jpg
+INPUT img\camcubesat.jgp.jpg
+INPUT .\img\camcubesat.jgp.jpg
+INPUT .\img\camcubesat.jgp.jpg
+INPUT .\img\camcubesat.jgp.jpg
+INPUT .\img\camcubesat.jgp.jpg
+INPUT .\img\hyperlogo.png
+INPUT .\img\hyperlogo.png
+INPUT img\hyperlogo.png
+INPUT .\img\hyperlogo.png
+INPUT .\img\hyperlogo.png
+INPUT .\img\hyperlogo.png
+INPUT img\hyperlogo.png
+INPUT .\img\hyperlogo.png
+INPUT d:\Mejia\Documents\Hypernova\TonaQube\Documentation\TonaQube design report\build\main.aux
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rmsc.enc
-INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
-INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi10.pfb
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi10.pfb
-INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi7.pfb
-INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi7.pfb
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr7.pfb
 INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr7.pfb
-INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr9.pfb
-INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr9.pfb
-INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.pfb
-INPUT C:\Users\Mejia\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.pfb

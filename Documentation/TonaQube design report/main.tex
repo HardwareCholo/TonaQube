@@ -128,12 +128,12 @@ tabla \ref{table:NOMAQ}.
       Partículas PM2.5 & Promedio 24 hrs & Crónica & Promedio anual & 12 $\dfrac{\mu g}{m^3}$ & 025-SSA1-2014\\ \hline
       Ozonono ($O_3$) & Dato horario & Aguda & No se permite & 0.095 ppm & 020-SSA1-2014 \\ \hline
       Ozonono ($O_3$) & Promedio de 8 hrs & Aguda & No se permite & 0.070 ppm & 020-SSA1-2014 \\ \hline
-      ($SO_2$) & Promedio de 8 hrs & Aguda & 1 vez al año & 0.200 ppm & 022-SSA1-2010 \\ \hline
-      ($SO_2$) & Promedio de 8 hrs & Aguda & No se permite & 0.110 ppm & 022-SSA1-2010 \\ \hline
-      ($SO_2$) & Dato horario & Crónica & -- & 0.025 ppm & 022-SSA1-2010 \\ \hline
-      ($NO_2$) & Dato horario & Aguda & 1 vez al año & 0.210 ppm & 023-SSA1-1993 \\ \hline
-      ($CO$) & Promedio de 8 hrs & Aguda & 1 vez al año & 11 ppm & 021-SSA1-1993 \\ \hline
-      ($Pb$) & Promedio de 3 meses & Crónica & No se permite & 1.5 $\dfrac{\mu g}{m^3}$ & 026-SSA1-1993 \\ \hline
+      $SO_2$ & Promedio de 8 hrs & Aguda & 1 vez al año & 0.200 ppm & 022-SSA1-2010 \\ \hline
+      $SO_2$ & Promedio de 8 hrs & Aguda & No se permite & 0.110 ppm & 022-SSA1-2010 \\ \hline
+      $SO_2$ & Dato horario & Crónica & -- & 0.025 ppm & 022-SSA1-2010 \\ \hline
+      $NO_2$ & Dato horario & Aguda & 1 vez al año & 0.210 ppm & 023-SSA1-1993 \\ \hline
+      $CO$ & Promedio de 8 hrs & Aguda & 1 vez al año & 11 ppm & 021-SSA1-1993 \\ \hline
+      $Pb$ & Promedio de 3 meses & Crónica & No se permite & 1.5 $\dfrac{\mu g}{m^3}$ & 026-SSA1-1993 \\ \hline
       
     \end{tabular}
     \caption{Normas mexicanas sobre la calidad del aire}
@@ -141,4 +141,69 @@ tabla \ref{table:NOMAQ}.
   \end{center}
 \end{table}
 
+\subsection{Satélites de observación de la Tierra}
+\justify
+Frecuentemente, muchos centros de investigación y empresas privadas pagan por imágenes satélitales de ciertas regiones de 
+la Tierra. Este servicio es caro derivado de lo caro que es desarrollar y poner un satélice de observación terrestre en órbita.
+La Figura \ref{figure:BigCamSat} muestra una imágen de un satélite de observación terrestre convencional.
+\clearpage
+\begin{figure}[!h]
+  \centering
+  \includegraphics[width=0.5\linewidth]{img/SatCam.png}
+  \caption{Satélite de observación espacial convencional}
+  \label{figure:BigCamSat}
+\end{figure}
+\justify
+Con el avance de la tecnología, hoy en día se puede pensar en nano satélites capaces de tomar una fotografía de buena calidad 
+para estudiar regiones de la Tierra. Utilizar ese tipo de satélites, permite que sea más barato brinda el servicio, así como 
+acelarar el proceso de desarrollo de los satélites ya que los nano satélites son más sencillos de construir y requieren 
+menos tiempo. La Figura \ref{figure:CamSat} ilustra un satélite de observación terrestre bajo el factor de forma CubeSat.
+\begin{figure}[!h]
+  \centering
+  \includegraphics[width=0.3\linewidth]{img/camcubesat.jgp.jpg}
+  \caption{Nano satélite de observación espacial CubeSat}
+  \label{figure:CamSat}
+\end{figure}
+\section{Requerimientos.}
+\subsection{Requerimientos de ENMICE}
+\subsection{Requerimientos de la misión}
+\begin{itemize}
+  \item Captura imágenes y envío a través de radiofrecuencia(915Mhz).
+  \item Captura de presión, humedad, temperatura, partículas P.M., velocidad del viento, radiación UV, velocidad lineal, posición
+   y dióxido de carbono.
+  \item Tener batería suficiente para soportar 1 hora funcionando.
+  \item Contar con páneles solares para administrar energía.
+  \item Envío de variables a través de radiofrecuencia(915MHz)
+  \item Debe tener su propia interfaz para el desplegado de la información recibida por readiofrecuencia.
+  \item Debe tener una estructura capaz de soportar el vuelo.
+  \item Debe tener indicadores visuales y auditivos que permitan saber que se encuentra funcionando.
+  \item Debe contar con un switch para su encendido y apagado.
+  \item Debe almacenar información en una memoria para su posterior análisis.
+  \item Debe contar con un reloj de tiempo real.
+  \item Debe contar con una antena y un transceptor para transmitir en 915Mhz.
+  \item Lectura y envío de señales cada segundo.
+\end{itemize}
+\section{Subsistemas del PocketQube.}
+\subsection{Subsistema de recuperación}
+\justify
+El subsistema de recuperación del PocketQube debe ser capaz de desplegar un paracaídas que le permita caer a una velocidad 10 m/s. El 
+subsistema debe ir dentro del PocketQube y ser desplegado una vez el vehículo lanzador alcance su apogeo (1km). Este subsistema debe 
+tener una forma de desplegar el paracaídas y una forma de sensar cuando se encuentra fuera del cohete para caer a la velocidad deseada.
+\subsection{Subsistema de comando y manejo de datos}
+\justify
+Este subsistema se encarga de la adquisición y distribución de señales. Debe estar instrumentado para cumplir con la lectura de 
+las variables definidas en los requerimientos y debe poder guardar dicha información de una memoria.
+\subsection{Subsistema de telecomunicaciones}
+\justify
+Este subsistema consiste una antena y la electrónica necesaria para transmitir la información deseada durante su vuelo a la estación terrena 
+a través de la banda libre de 915Mhz.
+\subsection{Subsistema de potencia}
+\justify
+Este subsiste es el encargado de la administración de toda la energía para cada subsistema. También administra la energía capatada por los paneles 
+solares para la batería.
+\section{Función del PocketQube}
+\justify
+La función del PocketQube es la toma y envío de fotografías cada 10 segundos y la lectura de presión, humedad, temperatura, partículas P.M., velocidad del viento, radiación UV, velocidad lineal, posición
+y dióxido de carbono a través de cada sensor correspondiente para almacenar esa información y transmitirla en la banda libre de 915Mhz mientras cae a una velocidad de 
+10 m/s.
 \end{document}
